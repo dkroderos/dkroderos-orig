@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David King Roderos
 - 👀 I’m interested in Programming and Games
-- 🌱 I’m currently learning ASP.NET for Web Development and Javascript
+- 🌱 I’m currently learning ASP.NET for Web Development, Design Patterns, Algorithms, and Javascript
 - 💞️ I’m looking to collaborate on (nothing yet)
 - 📫 How to reach me ...
 
